@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😍 I’m currently working on Javascript projects & learning React and nodeJs.
+- 😍 I’m currently working on Javascript projects & learning ReactJs.
 
 <div align="center">
   <a href="https://github.com/Marycorreia12">
