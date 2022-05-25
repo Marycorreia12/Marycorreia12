@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😍 I’m currently working on Javascript projects & learning ReactJs.
-- Portfolio  https://marycorreia12.github.io/
+- Portfolio https://marycorreia12.github.io/My-Personal-portfolio/
 
 <div align="center">
   <a href="https://github.com/Marycorreia12">
