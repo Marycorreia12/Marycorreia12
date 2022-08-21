@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😍 I’m currently working on Javascript projects & learning ReactJs.
+- 😍 i'm currently doing a frontend industry trainning from brainnest.
 - Portfolio https://marycorreia12.github.io/My-Personal-portfolio/
 
 <div align="center">
